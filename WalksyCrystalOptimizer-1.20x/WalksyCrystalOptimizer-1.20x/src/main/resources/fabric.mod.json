@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "motion blur",
+  "version": "${version}",
+
+  "name": "motion blur",
+  "description": "a simple motion blur",
+  "authors": [
+    "0pin"
+  ],
+
+  "icon": "assets/optimizer/icon.png"
+}
